@@ -1,21 +1,28 @@
-MIT License
+Licença de Uso para Estudos  
 
-Copyright (c) 2024 Mateuzzo
+Copyright (c) 2024 Mateus Henrique Candido dos Santos  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este projeto foi criado como parte do **curso de formação em Engenharia de Dados** ministrado pelo professor **Fernando Amaral**, reconhecido como **Data Engineer Lead, Data Scientist, Writer, and Teacher**.  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Termos de Uso  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **Finalidade Permitida**:  
+   Este projeto é disponibilizado exclusivamente para fins de estudo, aprendizado e uso acadêmico.  
+
+2. **Proibição de Uso Comercial**:  
+   Não é permitido o uso deste projeto, total ou parcial, para fins comerciais sem a devida autorização por escrito do autor.  
+
+3. **Referência Obrigatória**:  
+   Todo uso, redistribuição ou modificação deste projeto deve incluir os seguintes créditos:  
+   - Autor: Mateus Henrique Candido dos Santos  
+   - Curso: Formação em Engenharia de Dados  
+   - Instrutor: Fernando Amaral  
+
+4. **Modificações**:  
+   Alterações são permitidas somente para uso pessoal ou acadêmico. Redistribuições modificadas devem incluir este aviso de licença e os créditos originais.  
+
+5. **Isenção de Responsabilidade**:  
+   Este projeto é fornecido "no estado em que se encontra", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando, a garantias de comercialização, adequação a um propósito específico ou não infração.  
+
+6. **Direitos Autorais**:  
+   O autor e o instrutor do curso não se responsabilizam por quaisquer usos indevidos ou ilegais do projeto.
