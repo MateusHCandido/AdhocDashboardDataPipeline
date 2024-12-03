@@ -19,11 +19,11 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https
 
 01. Criar Cluster no Redshift
 02. Criar Banco de Dados e Tabelas
-    - Executar 1.CreateDataBase.sql
-    - Executar 2.CreateTables.sql
+    - Executar [1.CreateDataBase.sql](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/blob/main/sql_scripts/1.CreateDataBase.sql)
+    - Executar [2.CreateTables.sql](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/blob/main/sql_scripts/2.CreateTables.sql)
 03. Criar Bucket no S3
 04. Upload de Arquivos
-    - data_files
+    - [data_files](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/tree/main/data_files)
 05. Criar Credenciais
 06. Carregar Dados utilizando Copy
 07. Criar tabela desnormalizada
