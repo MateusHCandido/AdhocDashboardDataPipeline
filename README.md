@@ -17,15 +17,15 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https
 
 ## Roteiro
 
-01. Criar Cluster no Redshift
-02. Criar Banco de Dados e Tabelas
+01. Criar cluster no Redshift
+02. Criar banco de dados e tabelas
     - Executar [1.CreateDataBase.sql](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/blob/main/sql_scripts/create/1.CreateDataBase.sql)
     - Executar [2.CreateTables.sql](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/blob/main/sql_scripts/create/2.CreateTables.sql)
 03. Criar Bucket no S3
-04. Upload de Arquivos
+04. Upload de arquivos
     - [data_files](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/tree/main/data_files)
-05. Criar Credenciais
-06. Carregar Dados utilizando Copy
+05. Criar credenciais
+06. Carregar dados utilizando [Copy](https://github.com/MateusHCandido/AdhocDashboardDataPipeline/tree/main/sql_scripts/copy)
 07. Criar tabela desnormalizada
 08. Configurar Redshift para acesso público
 09. Conectar Google Data Studio
