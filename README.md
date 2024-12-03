@@ -1,2 +1,2 @@
 # AdhocDashboardDataPipeline
-Ad Hoc Dashboard using Amazon S3, Redshift and Google Data Studio
+Este projeto é uma estrutura de modelagem e pipeline de dados projetada para integrar dados do **AWS S3**, **Amazon Redshift** e **Google Data Studio**. O objetivo é gerar um **dashboard ad hoc** para visualizar métricas importantes a partir de um modelo de dados desnormalizado. O dashboard simplifica os insights sobre clientes, vendas, vendedores, itens de venda e produtos.
